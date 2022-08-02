@@ -14,3 +14,9 @@
 * Comparar todas las resistencias y obtener datos para el calculo de la maxima transferenci de potencia
 
 * Identificar la maxima transferencia de potencia y emitir en resultados el porcentaje de error.
+
+# 2. MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/105617383/182280395-4468fdd9-e39c-444e-a47f-21a8b82f3eb2.png)
+
+# 3. EXPLICACIÓN DEL PROCEDIMIENT
