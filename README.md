@@ -18,7 +18,7 @@
 # 2. MARCO TEORICO
 
 
-# 3. EXPLICACIÓN DEL PROCEDIMIENT
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105617383/182280395-4468fdd9-e39c-444e-a47f-21a8b82f3eb2.png)
 
