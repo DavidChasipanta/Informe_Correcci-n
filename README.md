@@ -56,7 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184726735-7f165f27-bc1d-4bf2-8de5-f45d59b3b24d.png)
 
-
+**Primeramente se tiene que armar el circuito, obteniendo lo siguiente:**
 
 
 
