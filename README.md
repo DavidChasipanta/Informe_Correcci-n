@@ -13,11 +13,24 @@
 
 * Analizar el metodo de superposicion para determinar los valores que solicita el problema para obtener un mejor conocimiento sobre lo que sucede en el circuito 
 
+* Explicar el ciruito de Thevenin para resolver el problema sintetizando el circuito para encontrar valores especificos
+
 # 2. MARCO TEORICO
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/105617383/182280395-4468fdd9-e39c-444e-a47f-21a8b82f3eb2.png)
+**Empleando el circuito de Thévenini determine la potencia suminstrada a la resistencia R3**
+
+![image](https://user-images.githubusercontent.com/105617383/184721717-55e79615-5739-4982-966c-b96cada84605.png)
+
+**Mediante instrumentos encuentre el circuito equivalnte de Thévenin.**
+
+**Emplee el vatimeto para determinar la potencia.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184719447-6f890588-3f80-4317-b775-d791ec99a6a2.png)
+
+**El teorema de Thevenin dice que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
+
+**Por lo tanto lo que aremos es retirar la resistencia R3 de 2.2kΩ. para obtener el voltaje.**
+
