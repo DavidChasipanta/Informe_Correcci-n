@@ -28,9 +28,10 @@
 
 **Emplee el vatimeto para determinar la potencia.**
 
-![image](https://user-images.githubusercontent.com/105617383/184719447-6f890588-3f80-4317-b775-d791ec99a6a2.png)
+![image](https://user-images.githubusercontent.com/105617383/184722674-197060bc-7b18-42e7-9005-8dbade44e576.png)
 
 **El teorema de Thevenin dice que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
 
 **Por lo tanto lo que aremos es retirar la resistencia R3 de 2.2kΩ. para obtener el voltaje.**
 
+![image](https://user-images.githubusercontent.com/105617383/184722900-1cab62d0-34da-4e4b-982a-e28614664dad.png)
