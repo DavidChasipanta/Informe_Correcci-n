@@ -58,5 +58,8 @@
 
 **Primeramente se tiene que armar el circuito, obteniendo lo siguiente:**
 
+![image](https://user-images.githubusercontent.com/105617383/184729081-9b84c066-3e06-4c55-afa7-12ebf06cd8e7.png)
+
+**El teorema de superposicion indica que se deben reemplazar las fuentes de corriente y de voltaje por su resistencia interna. Dependiendo de cuantas fuentes de corriente o de voltaje se tenga, se formaran los circuitos.**
 
 
