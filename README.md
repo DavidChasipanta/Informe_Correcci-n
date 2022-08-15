@@ -35,3 +35,8 @@
 **Por lo tanto lo que aremos es retirar la resistencia R3 de 2.2kΩ. para obtener el voltaje.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184722900-1cab62d0-34da-4e4b-982a-e28614664dad.png)
+
+**Vamos a  determinar la resistencia de Thevenin, se reemplazan las fuentes por su resistencia interna, la cual es un circuito cerrado**
+
+![image](https://user-images.githubusercontent.com/105617383/184723611-3be2a7e5-6f5e-46b7-b3a0-dad2d54ac65e.png)
+
