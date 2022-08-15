@@ -64,6 +64,12 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184741071-bed3fada-9eac-4009-97f8-45cb4130367f.png)
 
+**Medimos la corriente que pasa en la resistencia de 12 Ω.**
+
 ![image](https://user-images.githubusercontent.com/105617383/184741601-854d661d-8f08-4255-a051-85e54761e4cb.png)
+
+En el siguiente circuito mediremos con 10 voltios  es medir el voltaje que pasa en resistencia de 12 Ω.
+
+**Medimos la corriente que pasa en la resistencia de 12 Ω.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184741771-be93c486-9596-4837-975c-c56ca7a41925.png)
