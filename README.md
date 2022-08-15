@@ -32,7 +32,7 @@
 
 **El teorema de Thevenin dice que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
 
-**Por lo tanto lo que aremos es retirar la resistencia R3 de 2.2kΩ. para obtener el voltaje.**
+**Por lo tanto lo que aremos es retirar la resistencia R3 de 2.2kΩ para obtener el voltaje.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184722900-1cab62d0-34da-4e4b-982a-e28614664dad.png)
 
@@ -51,4 +51,12 @@
 **Comprobamos la potencia con DCACLab.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184726281-695b2f91-8280-4bbb-b750-93c4d8759753.png)
+
+Encontrar la corriente y el voltaje a traves de la resistencia de 12Ω mediante el teorema de superposición.
+
+![image](https://user-images.githubusercontent.com/105617383/184726735-7f165f27-bc1d-4bf2-8de5-f45d59b3b24d.png)
+
+
+
+
 
