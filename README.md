@@ -40,10 +40,15 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184723611-3be2a7e5-6f5e-46b7-b3a0-dad2d54ac65e.png)
 
-Circuito de Thévenin
+**Circuito de Thévenin**
 
 ![image](https://user-images.githubusercontent.com/105617383/184724906-54203fe3-7d7f-4c90-92c8-5d19ed12d260.png)
 
-Calculamos los resultados obtenidos para obtenr la potencia que existe en la R3.
+**Calculamos los resultados obtenidos para obtenr la potencia que existe en la R3.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184724506-8196d298-03bd-44c0-aa47-2a1c8d014601.png)
+
+**Comprobamos la potencia con DCACLab.**
+
+![image](https://user-images.githubusercontent.com/105617383/184726281-695b2f91-8280-4bbb-b750-93c4d8759753.png)
+
