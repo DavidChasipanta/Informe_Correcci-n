@@ -3,7 +3,7 @@
 
 # **Objetivo General:**
 
-* Analizar y comprender de forma teorica y experimental del Teorema de Maxima Transferencia de Potencia, como se relaciona directamente con una resistencia de la fuente, esto se lleva acabo mediante el desarrollo del presente laboratorio que abordara temas de la asignatura, se utilizara Tinkerkad y se establecera el porcentaje de error que tiene el metodo con respecto a los datos obtenidos mediate la simulación
+* Analizar y comprender el funcionamiento de cada uno de los circuitos para comprender e implentar la materia estudiada con la ayuda de los simuladores.
 
 # **Objetivo Específicos:**
 
@@ -11,9 +11,7 @@
 
 * Analizar el comportamiento de un circuito mediante la aplicación del Teorema de la MTP y comprobar los resultados obtenidos teóricamente de la potencia máxima en RL.
 
-* Comparar todas las resistencias y obtener datos para el calculo de la maxima transferenci de potencia
-
-* Identificar la maxima transferencia de potencia y emitir en resultados el porcentaje de error.
+* Analizar el metodo de superposicion para determinar los valores que solicita el problema para obtener un mejor conocimiento sobre lo que sucede en el circuito 
 
 # 2. MARCO TEORICO
 
@@ -22,4 +20,4 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/182280395-4468fdd9-e39c-444e-a47f-21a8b82f3eb2.png)
 
-![image](https://user-images.githubusercontent.com/105617383/182283218-cbcf4759-4c12-4502-aecb-03d4c9b39ca1.png)
+![image](https://user-images.githubusercontent.com/105617383/184719447-6f890588-3f80-4317-b775-d791ec99a6a2.png)
