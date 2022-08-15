@@ -52,7 +52,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184726281-695b2f91-8280-4bbb-b750-93c4d8759753.png)
 
-Encontrar la corriente y el voltaje a traves de la resistencia de 12Ω mediante el teorema de superposición.
+# **Encontrar la corriente y el voltaje a traves de la resistencia de 12Ω mediante el teorema de superposición.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184726735-7f165f27-bc1d-4bf2-8de5-f45d59b3b24d.png)
 
