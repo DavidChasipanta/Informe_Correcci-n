@@ -17,6 +17,11 @@
 
 # 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/105617383/184851300-7869b3e0-47a2-4c49-a492-425d5b1e7bd4.png)
+
+![image](https://user-images.githubusercontent.com/105617383/184851386-84dbe598-0c5a-4f62-8aaf-c5a8065ed9b8.png)
+
+![image](https://user-images.githubusercontent.com/105617383/184851916-0bf2f880-92e4-4e06-85fc-86b783d60cc1.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -106,7 +111,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184769953-ea8b70b6-c756-4702-a2a0-8a5567b11e73.png)
 
-***Obtenemos la corriente en 5Ω.**
+**Obtenemos la corriente en 5Ω.**
 
 # **4. Video**
 
