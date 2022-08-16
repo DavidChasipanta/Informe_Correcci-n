@@ -84,3 +84,6 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184756876-2ab30263-31ef-4471-af9e-b3cab9d5b3b5.png)
 
+# **Empleando el circuito equivalente de Thévenin determine la potencia suministrada a la resistecia R3**
+
+![image](https://user-images.githubusercontent.com/105617383/184757452-f9e39e21-c873-4dd8-b976-d1a7c20348ba.png)
