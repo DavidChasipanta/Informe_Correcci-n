@@ -76,8 +76,11 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184755782-37d1cde0-5ec8-4c77-9842-3bdefda089e6.png)
 
-**Medimos la corriente que pasa en la resistencia de 12 Ω.**
+**La corriente que pasa por la resistencia **
 
 ![image](https://user-images.githubusercontent.com/105617383/184741771-be93c486-9596-4837-975c-c56ca7a41925.png)
 
+**El voltaje que pasa por la resistencia **
+
+![image](https://user-images.githubusercontent.com/105617383/184756876-2ab30263-31ef-4471-af9e-b3cab9d5b3b5.png)
 
