@@ -93,3 +93,16 @@
 **Como se habia mencionado antes, el teorema de Thevenin dicta que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184759330-80263fc2-ea94-4995-81d7-bb648faa195e.png)
+
+**Por lo tanto el voltaje de Thevenin quitando la resistencia de 5ohms es el siguiente:**
+
+![image](https://user-images.githubusercontent.com/105617383/184759779-7b4b30fb-c0f8-4df9-a347-aafcc688a700.png)
+
+**Por lo tanto la resistencia de Thevenin se obtiene:**
+
+![image](https://user-images.githubusercontent.com/105617383/184760828-f7d8b349-7ad4-4cc5-b0b2-f485d0860248.png)
+
+**El circuito de Thevenin:**
+
+![image](https://user-images.githubusercontent.com/105617383/184769953-ea8b70b6-c756-4702-a2a0-8a5567b11e73.png)
+
