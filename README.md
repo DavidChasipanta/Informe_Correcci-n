@@ -106,3 +106,15 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184769953-ea8b70b6-c756-4702-a2a0-8a5567b11e73.png)
 
+
+# **4. Video**
+
+# **5.Conclusiones**
+
+* Los teroremas aprendidos en clase nos permite realizar de forma mas rapida en los simuladores, ya que nos ayuda comprender y la retención de la clases aprendidad.
+
+* Con la ayuda de los simuladores podemos tener un acercamiento con la parctica fisica, adquiriendo conosimiento y  obtneniendo al gunas fallas donde podemos arreglarlas.
+
+# **6.Bibliogrfía**
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
