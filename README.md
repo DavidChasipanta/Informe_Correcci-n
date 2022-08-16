@@ -106,6 +106,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184769953-ea8b70b6-c756-4702-a2a0-8a5567b11e73.png)
 
+***Obtenemos la corriente en 5Ω.**
 
 # **4. Video**
 
