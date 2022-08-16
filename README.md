@@ -25,7 +25,7 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-# **Empleando el circuito de Thévenini determine la potencia suminstrada a la resistencia R3**
+# **Empleando el circuito de Thévenin determine la potencia suminstrada a la resistencia R3**
 
 ![image](https://user-images.githubusercontent.com/105617383/184721717-55e79615-5739-4982-966c-b96cada84605.png)
 
@@ -114,6 +114,8 @@
 **Obtenemos la corriente en 5Ω.**
 
 # **4. Video**
+
+https://youtu.be/8A5UDfUVej8
 
 # **5.Conclusiones**
 
