@@ -64,6 +64,10 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184741071-bed3fada-9eac-4009-97f8-45cb4130367f.png)
 
+**En el siguiente circuito mediremos el voltaje con una corriente de 10 voltios.**
+
+![image](https://user-images.githubusercontent.com/105617383/184756778-dde89282-0695-400c-bca1-28dd20ef9480.png)
+
 **Medimos la corriente que pasa en la resistencia de 12 Ω.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184741601-854d661d-8f08-4255-a051-85e54761e4cb.png)
@@ -76,4 +80,4 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/184741771-be93c486-9596-4837-975c-c56ca7a41925.png)
 
-**En el siguiente circuito mediremos el voltaje con una corriente de 10 voltios.**
+
