@@ -87,8 +87,9 @@
 # **Clacular la intensidad I que pasará por la resistencia 5Ω utilizando Thevenin**
 
 ![image](https://user-images.githubusercontent.com/105617383/184757770-3d75f1f2-855f-4571-9cf5-ab153b1b3663.png)
-**Como se habia mencionado antes, el teorema de Thevenin dicta que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
 
 ![image](https://user-images.githubusercontent.com/105617383/184758419-128530ae-bee5-4438-9db6-fdbab4c54150.png)
 
+**Como se habia mencionado antes, el teorema de Thevenin dicta que, cualquier circuito puede ser simplificado obteniendo una fuente de voltaje y una resistencia a las que se las denominará con el voltaje y resistencia equivalente de Thevenin.**
 
+![image](https://user-images.githubusercontent.com/105617383/184759330-80263fc2-ea94-4995-81d7-bb648faa195e.png)
